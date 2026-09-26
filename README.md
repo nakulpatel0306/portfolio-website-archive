@@ -1,4 +1,6 @@
-# 🌐 Nakul Patel — Developer Portfolio
+# 🗄️ Nakul Patel — Developer Portfolio (Archive)
+
+> **Archived:** This is an older version of my portfolio, kept for reference. It is no longer actively developed.
 
 A clean, responsive, and interactive developer portfolio showcasing projects, skills, and experience. Features an animated background, mobile-friendly navigation, an “About” photo carousel, a timeline for experience, and a code-editor-style skills section.
 
@@ -34,8 +36,8 @@ A clean, responsive, and interactive developer portfolio showcasing projects, sk
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/my-portfolio-website.git
-   cd my-portfolio-website
+   git clone https://github.com/<your-username>/portfolio-website-archive.git
+   cd portfolio-website-archive
    ```
 2. Open `index.html` in your browser, or run a local server:
    ```bash
