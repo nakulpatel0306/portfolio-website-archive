@@ -8,7 +8,7 @@ Live site (old version): https://nakul-patel-portfolio.netlify.app/
 
 ## Status
 
-- **State:** Archived, September 2026. Replaced by a newer portfolio.
+- **State:** Archived, September 2026.
 - **Resume:** `assets/nakul-patel-software-resume.pdf` (last updated September 2026)
 - **Stack:** HTML, CSS and JavaScript. No framework or build step.
 
