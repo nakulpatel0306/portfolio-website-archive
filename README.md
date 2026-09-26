@@ -1,8 +1,18 @@
-# 🌐 Nakul Patel — Developer Portfolio
+# 🗄️ Nakul Patel — Developer Portfolio (Archive)
+
+> **Archived:** This is an older version of my portfolio, kept for reference. It is no longer actively developed, but the resume is kept up to date.
 
 A clean, responsive, and interactive developer portfolio showcasing projects, skills, and experience. Features an animated background, mobile-friendly navigation, an “About” photo carousel, a timeline for experience, and a code-editor-style skills section.
 
 **Live site:** https://nakul-patel-portfolio.netlify.app/
+
+---
+
+## 📌 Status
+
+- **State:** Archived (September 2026)
+- **Resume:** `assets/nakul-patel-software-resume.pdf` (updated September 2026)
+- **Stack:** Plain HTML, CSS and JavaScript, no build step
 
 ---
 
@@ -34,8 +44,8 @@ A clean, responsive, and interactive developer portfolio showcasing projects, sk
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/my-portfolio-website.git
-   cd my-portfolio-website
+   git clone https://github.com/nakulpatel0306/portfolio-website-archive.git
+   cd portfolio-website-archive
    ```
 2. Open `index.html` in your browser, or run a local server:
    ```bash
