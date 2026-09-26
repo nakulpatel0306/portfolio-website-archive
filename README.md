@@ -6,7 +6,7 @@ This was my personal developer portfolio, built with plain HTML, CSS and JavaScr
 
 Live site (old version): https://nakul-patel-portfolio.netlify.app/
 
-## Status
+## At a Glance
 
 - **State:** Archived, September 2026.
 - **Resume:** `assets/nakul-patel-software-resume.pdf` (last updated September 2026)
