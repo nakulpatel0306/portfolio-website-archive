@@ -1,21 +1,20 @@
-# Nakul Patel - Portfolio Website (Old Version)
+# Nakul Patel - Old Portfolio Website
 
-> **This is my old portfolio site.** It is kept here as an archive for reference and is no longer being developed. The only thing still updated is the resume PDF.
+My earlier developer portfolio, kept as an archive and no longer developed; only the resume PDF still gets updated. Built with plain HTML, CSS and JavaScript, it covers my projects, skills and experience with an animated particle background, an "About" photo carousel, an experience timeline and a code-editor-style skills section.
 
-This was my personal developer portfolio, built with plain HTML, CSS and JavaScript. It covers my projects, skills and experience, and includes an animated background, mobile navigation, an "About" photo carousel, an experience timeline and a code-editor-style skills section.
-
-Live site (old version): https://nakul-patel-portfolio.netlify.app/
+**Live (old version) at [nakulpatel0306.github.io/portfolio-website-archive](https://nakulpatel0306.github.io/portfolio-website-archive/)**
 
 ## At a Glance
 
-- **State:** Archived, September 2026.
-- **Resume:** `assets/nakul-patel-software-resume.pdf` (last updated September 2026)
-- **Stack:** HTML, CSS and JavaScript. No framework or build step.
+- **Stack:** HTML, CSS and JavaScript. No framework or build step
+- **Hosting:** GitHub Pages, served from `main`
+- **Resume:** [`assets/nakul-patel-software-resume.pdf`](assets/nakul-patel-software-resume.pdf) (last updated September 2026)
+- **State:** Archived (old version), September 2026
 
 ## Features
 
 - Responsive navigation with a mobile hamburger menu
-- Animated particle background and cursor effects
+- Animated particle background that reacts to the cursor
 - About section carousel with keyboard and swipe support
 - Projects grid with hover animations
 - Experience timeline
